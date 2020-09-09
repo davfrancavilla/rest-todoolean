@@ -1,3 +1,7 @@
 i {
     color: red;
 }
+
+input {
+    outline: none;
+}
